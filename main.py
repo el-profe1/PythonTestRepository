@@ -1,3 +1,4 @@
+# Added comment
 def hi(name='World')->str:
     return 'Hello, {}!'.format(name)
 
